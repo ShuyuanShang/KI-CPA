@@ -22,3 +22,5 @@ Kinetics-informed CPA for drug perturbation prediction
 ### Evaluation ###
 
 -- final_eval_loo.py
+
+Further details including data, ESM2 files and slides are stored in https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
