@@ -22,5 +22,3 @@ Kinetics-informed CPA for drug perturbation prediction
 ### Evaluation ###
 
 -- final_eval_loo.py
-
-Please revise the data path as needed! 
